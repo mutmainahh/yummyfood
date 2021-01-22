@@ -15,7 +15,7 @@ const ImageAndWelcome = () => (
                         <h4 className="card-title">The Easiest Way to Find Restaurants and Food</h4>
                         <p className="card-text">You can grab information about restaurants, cafees, cuisines with just a few clicks.</p>
                         <p className="card-text">Start searching for the name of the city to be visited.</p>
-                        <p className="card-text">Happy try it😊😊</p>
+                        <p className="card-text">Happy try it</p>
                     </div>
                 </div>
             </div>
